@@ -3,3 +3,4 @@
 <h2>Preview of Projects</h2>
 <h3>Calculator App</h3>
 <p>Check out the: <a href="https://kiranolichhetri.github.io/JS-projects/calculator/">Calculator App</a>.</p>
+<h3>Traffic Light</h3>
